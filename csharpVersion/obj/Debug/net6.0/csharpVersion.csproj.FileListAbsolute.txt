@@ -1,0 +1,15 @@
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.AssemblyInfo.cs
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\bin\Debug\net6.0\csharpVersion.exe
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\bin\Debug\net6.0\csharpVersion.deps.json
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\bin\Debug\net6.0\csharpVersion.runtimeconfig.json
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\bin\Debug\net6.0\csharpVersion.dll
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\bin\Debug\net6.0\csharpVersion.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.dll
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\refint\csharpVersion.dll
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\csharpVersion.genruntimeconfig.cache
+C:\Users\jacks\Desktop\projects\Swinburne\anonymousFunctions\csharpVersion\obj\Debug\net6.0\ref\csharpVersion.dll
